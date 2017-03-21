@@ -1,0 +1,8 @@
+bin/
+include/
+lib/
+pip-selfcheck.json
+notMNIST_*
+notMNIST.pickle
+share/
+.ipynb_checkpoints/
